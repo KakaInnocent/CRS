@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TukenyaCourse</string>
+    <string name="courseunit">Course Unit</string>
+    <string name="password">Password</string>
+    <string name="department">Department</string>
+    <string name="email">Email</string>
+    <string name="name">name</string>
+    <string name="regno">Reg No</string>
+    <string name="register">REGISTER</string>
+    <string name="alreadyhaveanaccount">Already Have an Account?</string>
+    <string name="reg_no">Reg. No.</string>
+    <string name="n_ame">Name</string>
+    <string name="r_egister">Register</string>
+    <array name="course">
+        <item>Bachelor of Computer Technology</item>
+        <item>Bachelor of Hospitality</item>
+        <item>Comp Tech</item>
+        <item>Course</item>
+        <item>Course</item>
+        <item>Course</item>
+        <item>Course</item>
+        <item>Course</item>
+        <item>Course</item>
+        <item>Course</item>
+        <item>Course</item>
+        <item>Course</item>
+        <item>Course</item>
+        <item>Course</item>
+    </array>
+</resources>
